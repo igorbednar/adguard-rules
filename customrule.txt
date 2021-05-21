@@ -1,3 +1,7 @@
+https://static.chartbeat.com/js/chartbeat.js
+https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js
+https://ecdn.firstimpression.io/fi_client.js
+https://ecdn.analysis.fi/static/js/fab.js
+https://connect.facebook.net/en_US/fbevents.js
+https://static.chartbeat.com/js/chartbeat.js
 https://www.themarker.com/static/ad-blocker.js
-||haaretz.com^$script
-||haaretz.co.il^$script
