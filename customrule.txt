@@ -1,3 +1,1 @@
-||*.*^$script,domain=themarker.com
-||*.*^$script,domain=haaretz.com
-||*.*^$script,domain=haaretz.co.il
+||*.*^$script,domain=themarker.com|haaretz.co.il|haaretz.com
